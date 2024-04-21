@@ -86,7 +86,7 @@ df = pd.DataFrame()
 
 # Copy DataFrame to another
 df2 = df.copy()
-print(df)
+print(df2)
 
 
 
